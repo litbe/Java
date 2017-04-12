@@ -1,5 +1,7 @@
 package Command;
 
-public class TeminateSignal {
+public class TeminateSignal implements Command {
+	
+	public void excute() {}
 
 }
