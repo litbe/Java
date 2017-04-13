@@ -1,4 +1,4 @@
-package Command;
+package DesignPattern.Command;
 
 public class TeminateSignal implements Command {
 	
